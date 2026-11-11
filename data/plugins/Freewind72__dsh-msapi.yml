@@ -1,0 +1,6 @@
+url: https://github.com/Freewind72/dsh-msapi
+name: Freewind72/dsh-msapi
+category: fun
+description:
+  en: Embeds the Msapi music player into the DSH window with a two-field settings page, a plugin-controlled viewport, and player memory that survives restarts.
+  zh: 将 Msapi 音乐播放器嵌入 DSH 窗口：两字段设置页、插件控制视口、播放器记忆可跨重启保留。
